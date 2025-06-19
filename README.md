@@ -1,51 +1,59 @@
-<h2 align="left">Hi 👋! My name is Linh and I'm a Business Analyst, from VietNam</h2>
+<!-- HEADER -->
+<h1 align="center" style="font-weight:bold; color:#ff69b4;">👩‍💼 Hi, I'm Linh — a Business Analyst from Vietnam!</h1>
+<p align="center">I love turning complex business needs into simple, beautiful solutions. 🚀</p>
 
-###
+---
 
+<!-- GITHUB STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hniloablingg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hniloablingg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hniloablingg&show_icons=true&theme=rose_pine&hide_border=false&border_color=ffb6c1" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hniloablingg&layout=compact&theme=rose_pine&card_width=320&border_color=ffb6c1" height="160" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVicWg1emE2enU5ajlya25penhpanB0dWF[…]12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAlhwn67KT76E/giphy.gif"  />
+<!-- ANIMATED GIF (RIGHT SIDE) -->
+<img align="right" height="180" src="https://media4.giphy.com/media/YAlhwn67KT76E/giphy.gif" />
 
-###
-
+### 💼 My Business Analyst Toolkit
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-FF7262?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </div>
 
-###
+---
 
+### 📬 Connect with Me
 <div align="left">
-  <a href="https://www.instagram.com/jocasta._.wuut/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="baolinh02112004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:baolinh02112004@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/b%E1%BA%A3o-linhh-712a26339/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.facebook.com/100012462195241" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.instagram.com/jocasta._.wuut/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
-###
+---
 
+<!-- PACMAN CONTRIBUTION GRAPH -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hniloablingg/hniloablingg/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hniloablingg/hniloablingg/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hniloablingg/hniloablingg/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=140&section=footer"/>
+</p>
