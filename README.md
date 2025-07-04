@@ -76,7 +76,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hniloablingg/hniloablingg/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hniloablingg/hniloablingg/output/pacman-contribution-graph.svg">
-    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/hniloablingg/hniloablingg/output/pacman-contribution-graph.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/hniloablingg/hniloablingg/output/snake.svg">
   </picture>
 </p>
 
